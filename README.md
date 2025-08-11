@@ -40,7 +40,8 @@
     Дослідження (ε): вибрати випадковий офер із топ-3.
 
     Зберегти is_backfill і is_split.
-![alt text](<click_selection.png>)
+![alt text](<simulation.png>)
+
 5. Моніторинг KPI
 
     Щоденний підрахунок EPC, CR, кліків, конверсій.
@@ -68,4 +69,4 @@
 
         масив кліків → KPI
 
-![alt text](<simulation.png>)
+![alt text](<click_selection.png>)
