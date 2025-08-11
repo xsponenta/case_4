@@ -2,7 +2,7 @@
 
 ![Untitled diagram _ Mermaid Chart-2025-08-10-113257](https://github.com/user-attachments/assets/a2026a6a-665d-4bf8-917d-cc7c97ae746a)
 
-
+В файлі solutions.ipynb - розміщена спроба симуляції алгоритму, відстеження КРІ, CR, система алертингу
 1. Завантаження та підготовка даних
 
     Читаємо CSV-файли з postbacks, clicks, sources, offers.
