@@ -40,7 +40,6 @@
     Дослідження (ε): вибрати випадковий офер із топ-3.
 
     Зберегти is_backfill і is_split.
-https://ktex.ua/brands/slimtex/?utm_source=facebook&utm_medium=reach&utm_campaign=01-08-25_slimtex_acq_adv&utm_content=photo-carusel-slimtex&utm_id=120230732679100520&utm_term=120230732679120520&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExNVdsSkp5TU8xQjB3dEVOSAEesCtbDpg-CbyC7PyY_pDx2lmUc5DI4TEW-XQ526yyt65uOb2h6LukIh77kD8_aem_3vaImfxn8J_h8x1tIJlNkw
 
 5. Моніторинг KPI
 
@@ -60,7 +59,6 @@ https://ktex.ua/brands/slimtex/?utm_source=facebook&utm_medium=reach&utm_campaig
         стрибки трафіку
 
     Вивід попереджень і рекомендацій.
-https://ktex.ua/brands/slimtex/?utm_source=facebook&utm_medium=reach&utm_campaign=01-08-25_slimtex_acq_adv&utm_content=photo-carusel-slimtex&utm_id=120230732679100520&utm_term=120230732679120520&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExNVdsSkp5TU8xQjB3dEVOSAEesCtbDpg-CbyC7PyY_pDx2lmUc5DI4TEW-XQ526yyt65uOb2h6LukIh77kD8_aem_3vaImfxn8J_h8x1tIJlNkw
 
 7. Симуляція
 
