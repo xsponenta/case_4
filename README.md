@@ -43,7 +43,7 @@ run_simulation(sample_size=100, epsilon=0.1)
 
 ### Візуалізація
 
-- KPI-графіки автоматично будуть побудовані після симуляції.
+- KPI-графіки автоматично будуть побудовані після симуляції(не встиг доробити до кінця).
 - Додаткові графіки: `simulation.png`, `click_selection.png`.
 
 ### Алертинг
@@ -52,7 +52,7 @@ run_simulation(sample_size=100, epsilon=0.1)
 
 ---
 
-## Діаграми
+## Результати
 
 ![alt text](<simulation.png>)
 ![alt text](<click_selection.png>)
